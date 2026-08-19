@@ -1,0 +1,5 @@
+# robots.txt for PFSH.net
+User-agent: *
+Disallow:
+
+Sitemap: http://pfsh.net/sitemap.xml
